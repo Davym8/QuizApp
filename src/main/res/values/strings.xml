@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="sit305_quiz_app">SIT305 Quiz App!</string>
+    <string name="enter_name">Enter Your Name:</string>
+    <string name="intro">Welcome to the Android studio Quiz! <br />You will have five questions based on Android studio content.<br /> Enter your details to begin.</string>
+    <string name="enter">Enter</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+
+</resources>
